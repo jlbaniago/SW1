@@ -11,7 +11,6 @@
             {
                 return false;
             }
-
             for (int i = 2; i <= Math.Sqrt(num); i++)
             {
                 if (num % i == 0)
@@ -22,7 +21,6 @@
 
             return true;
         }
-
         // convert dollars to peso and yen
         static (double, double) ConvertCurrency(double dollar)
         {
