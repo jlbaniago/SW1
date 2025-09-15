@@ -1,0 +1,14 @@
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\bin\Debug\net8.0\Baniago_SW1.exe
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\bin\Debug\net8.0\Baniago_SW1.deps.json
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\bin\Debug\net8.0\Baniago_SW1.runtimeconfig.json
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\bin\Debug\net8.0\Baniago_SW1.dll
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\bin\Debug\net8.0\Baniago_SW1.pdb
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\obj\Debug\net8.0\Baniago_SW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\obj\Debug\net8.0\Baniago_SW1.AssemblyInfoInputs.cache
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\obj\Debug\net8.0\Baniago_SW1.AssemblyInfo.cs
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\obj\Debug\net8.0\Baniago_SW1.csproj.CoreCompileInputs.cache
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\obj\Debug\net8.0\Baniago_SW1.dll
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\obj\Debug\net8.0\refint\Baniago_SW1.dll
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\obj\Debug\net8.0\Baniago_SW1.pdb
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\obj\Debug\net8.0\Baniago_SW1.genruntimeconfig.cache
+C:\Users\janleo\source\repos\Baniago_SW1\Baniago_SW1\obj\Debug\net8.0\ref\Baniago_SW1.dll
